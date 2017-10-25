@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaStudyCode.iml" filepath="$PROJECT_DIR$/JavaStudyCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JvmStudy/JvmStudy.iml" filepath="$PROJECT_DIR$/JvmStudy/JvmStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" filepath="$PROJECT_DIR$/RxJavaDemo/RxJavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadStudy/ThreadStudy.iml" filepath="$PROJECT_DIR$/ThreadStudy/ThreadStudy.iml" />
+    </modules>
+  </component>
+</project>
